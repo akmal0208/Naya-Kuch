@@ -1,2 +1,2 @@
-# Naya-Kuch
-Testing it
+# Handwritten digit recognition using mnist dataset on tensorflow 
+
